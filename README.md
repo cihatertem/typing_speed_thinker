@@ -1,27 +1,27 @@
 # Typing Speed Tester
 
-![Typing Speed Tester's screenshot](https://github.com/cihatertem/typing_speed_tester/blob/master/screenshot.png?raw=true)
+![Typing Speed Tester's screenshot](https://raw.githubusercontent.com/cihatertem/typing_speed_thinker/master/screenshot.png)
 A simple typing speed test tool based on Python/Tkinter.
 
 ## Features
 
-* Top 3000 English words data source
+- Top 3000 English words data source
   from [EF](https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/).
-* Test duration 60s fixed for now.
-* WPM (word per minute) and failed words counter
-* Test score screen
+- Test duration 60s fixed for now.
+- WPM (word per minute) and failed words counter
+- Test score screen
 
 ## Upcoming Features (Maybe :) )
 
-* Turkish support
-* CPM(character per minute)
-* Theme / Style
-* Test duration options
-* Typing sound
-* Score to data
-* Users' credentials
-* Focus mode
-* Possible bug fixes.
+- Turkish support
+- CPM(character per minute)
+- Theme / Style
+- Test duration options
+- Typing sound
+- Score to data
+- Users' credentials
+- Focus mode
+- Possible bug fixes.
 
 ## Requirements
 
